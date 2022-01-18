@@ -1,4 +1,4 @@
-        What is Prometheus?
+  What is Prometheus?
 
 	Prometheus, one of the gods of the Titans in Greek mythology, and Athena, the goddess of wisdom, created humans together. Prometheus rebelled against Zeus and brought fire to the world, implying that Prometheus Finance opposes centralization, supports the equality of all beings, and is highly decentralized.
 
